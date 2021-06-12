@@ -1,7 +1,13 @@
+[![GitHub contributors](https://img.shields.io/github/contributors/divya-gh/Face_Mask_Detection?style=for-the-badge)](https://github.com/divya-gh/Face_Mask_Detection/graphs/contributors)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/divya-gh/Face_Mask_Detection?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/divya-gh/Face_Mask_Detection?style=for-the-badge)
+
+
+
+
+
 Face Mask Detection
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/shaineb/Face_mask_project3/main/maskrecognition8.jpeg" width="600px"/><br/>
-</h1>
+![Header](https://raw.githubusercontent.com/nadiaaldrich/project_3/main/README_Images/banner2.png "Header")
 
  # Face Mask Detector
 ![](https://tse3.mm.bing.net/th?id=OIP.o6Uy1q8Yv6LQBf1O-NXtwQHaEr&pid=Api&P=0&w=275&h=175)
