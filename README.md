@@ -6,8 +6,8 @@
 
 
 
-Face Mask Detection
-![Header](https://raw.githubusercontent.com/nadiaaldrich/project_3/main/README_Images/banner2.png "Header")
+<img src="https://raw.githubusercontent.com/nadiaaldrich/project_3/main/README_Images/banner2.png" alt="banner" width="1000" height="550"/>
+
 
  # Face Mask Detector
 ![](https://tse3.mm.bing.net/th?id=OIP.o6Uy1q8Yv6LQBf1O-NXtwQHaEr&pid=Api&P=0&w=275&h=175)
