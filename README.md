@@ -1,7 +1,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/divya-gh/Face_Mask_Detection?style=for-the-badge)](https://github.com/divya-gh/Face_Mask_Detection/graphs/contributors)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/divya-gh/Face_Mask_Detection?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/divya-gh/Face_Mask_Detection?style=for-the-badge)
-
+![GitHub commits count](https://img.shields.io/github/last-commit/divya-gh/Face_Mask_Detection?style=for-the-badge)
 
 
 
