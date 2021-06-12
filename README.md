@@ -4,14 +4,16 @@
 ![GitHub commits count](https://img.shields.io/github/last-commit/divya-gh/Face_Mask_Detection?style=for-the-badge)
 
 
-
-
 <img src="https://raw.githubusercontent.com/nadiaaldrich/project_3/main/README_Images/banner2.png" alt="banner" width="1000" height="550"/>
 
+---
+ # Background 
+ <a href="https://tse3.mm.bing.net/th?id=OIP.o6Uy1q8Yv6LQBf1O-NXtwQHaEr&pid=Api&P=0&w=275&h=175"></a>
+<b/> 
 
- # Face Mask Detector
+
 ![](https://tse3.mm.bing.net/th?id=OIP.o6Uy1q8Yv6LQBf1O-NXtwQHaEr&pid=Api&P=0&w=275&h=175)
-
+---
 # Covid struct 2020-2021 
 - vaccines were not available for majority population
 -  Hospitals and Healthcare facilites mandatorily wore facemasks to prevent spread of Covid
