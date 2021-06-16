@@ -21,6 +21,8 @@
 ---
 # Objective: 
 <p> Create a face mask detecting system....pending official methods and jargon </p>
+</b>
+
 # Why use Face Mask Detector?
 - still mandatory for visitors and workers for  to wear masks in Healthcare Facilities
 - how are facilties checking public and private access points 
