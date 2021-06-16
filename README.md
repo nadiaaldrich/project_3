@@ -7,11 +7,12 @@
 <img src="https://raw.githubusercontent.com/nadiaaldrich/project_3/main/README_Images/banner2.png" alt="banner" width="1000" height="550"/>
 
 ---
- # Background 
- <a href="https://tse3.mm.bing.net/th?id=OIP.o6Uy1q8Yv6LQBf1O-NXtwQHaEr&pid=Api&P=0&w=275&h=175"></a>
+# Background:
+ ## In San Antonio, the coronavirus pandemic officially began on March 2020 and by April 2020, the CDC began recommending face coverings to help slow the spread of the virus. 
+[***Click here for a full timeline.***](https://www.texastribune.org/2020/07/31/coronavirus-timeline-texas/https://www.texastribune.org/2020/07/31/coronavirus-timeline-texas/)
+
+<a href="https:github.com/nadiaaldrich/project_2/main/readme_images"><img width="100" align='left' src="readme_images/files_icon.png?raw=true"></a>
 <b/> 
-
-
 ![](https://tse3.mm.bing.net/th?id=OIP.o6Uy1q8Yv6LQBf1O-NXtwQHaEr&pid=Api&P=0&w=275&h=175)
 ---
 # Covid struct 2020-2021 
