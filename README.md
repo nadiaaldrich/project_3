@@ -19,12 +19,8 @@
 
 
 ---
-
-# Covid struct 2020-2021 
-- vaccines were not available for majority population
--  Hospitals and Healthcare facilites mandatorily wore facemasks to prevent spread of Covid
--  basic and N95 mask were standard for public and private facilites
--  most Healthcare and Hospitals require masks worn 
+# Objective: 
+<p> Create a face mask detecting system....pending official methods and jargon </p>
 # Why use Face Mask Detector?
 - still mandatory for visitors and workers for  to wear masks in Healthcare Facilities
 - how are facilties checking public and private access points 
