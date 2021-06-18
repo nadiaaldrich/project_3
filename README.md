@@ -13,21 +13,19 @@
 <b/>
 <a href="https:github.com/nadiaaldrich/project_3/main/README_Images/covid-icon2.png"><img width="100" align='left' src="README_Images/covid-icon2.png?raw=true"></a>
 
-<p>In San Antonio, the coronavirus pandemic officially began on March 2020 and by April 2020, the CDC began recommending face mask to help slow the spread of the virus. 
- Since then, we have all, at one point or another, been subject to wearing a face mask.  </p>
-<b/>
+## <p style="font-size:700%;">In San Antonio, the coronavirus pandemic officially began on March 2020 and by April 2020, the CDC began recommending face mask to help slow the spread of the virus. Since then, we have all, at one point or another, been subject to wearing a face mask.</p>
+
+
 
 ## [***Click here for a full timeline.***](https://www.texastribune.org/2020/07/31/coronavirus-timeline-texas/https://www.texastribune.org/2020/07/31/coronavirus-timeline-texas/)
 
 
 ---
 # Objective: 
-<p> Create a deep learning, convolutional neural network that detects people in images who are wearing face masks and not wearing face masks.   </p>
-</b>
+## Create a deep learning, convolutional neural network that detects people in images who are wearing face masks and not wearing face masks. 
 
 ![Banner](README_Images/MaskNoMask.gif)
-
-# Why use Face Mask Detector?
+---
 - still mandatory for visitors and workers for  to wear masks in Healthcare Facilities
 - how are facilties checking public and private access points 
 - how  is  census being taken for city and state regulations health regulations
