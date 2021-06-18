@@ -4,7 +4,9 @@
 ![GitHub commits count](https://img.shields.io/github/last-commit/divya-gh/Face_Mask_Detection?style=for-the-badge)
 
 
-<img src="https://raw.githubusercontent.com/nadiaaldrich/project_3/main/README_Images/banner2.png" alt="banner" width="1000" height="550"/>
+![Banner](README_Images/project_banner.gif)
+
+
 
 
 # Inspiration:
