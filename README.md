@@ -24,7 +24,9 @@
 # Objective: 
 <p> Create a deep learning, convolutional neural network that detects people in images who are wearing face masks and not wearing face masks.   </p>
 </b>
+
 ![Banner](README_Images/MaskNoMask.gif)
+
 # Why use Face Mask Detector?
 - still mandatory for visitors and workers for  to wear masks in Healthcare Facilities
 - how are facilties checking public and private access points 
