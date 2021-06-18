@@ -26,6 +26,20 @@
 
 ![Banner](README_Images/MaskNoMask.gif)
 ---
+## How does it work?
+
+Options | Description
+------------ | -------------
+**Option 1** | User can select from pre-set images to test the mask detector.
+**Option 2** | User can upload an image to run the mask detector.
+**Option 3** | User can initiate the webcam feature and use the mask detector LIVE--in real time!
+
+---
+
+## Who would benefit from our face mask detector?
+
+
+
 - still mandatory for visitors and workers for  to wear masks in Healthcare Facilities
 - how are facilties checking public and private access points 
 - how  is  census being taken for city and state regulations health regulations
