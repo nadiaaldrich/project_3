@@ -24,20 +24,25 @@
 # Objective: 
 ## Create a deep learning, convolutional neural network that detects people in images who are wearing face masks and not wearing face masks. 
 
-![Banner](README_Images/MaskNoMask.gif)
+![Banner](https://github.com/nadiaaldrich/project_3/blob/190e95de6f04449c35960b96a1c7832212cc6835/README_Images/MaskNoMask.gif)
 ---
-## How does it work?
+# How does it work?
 
 Options | Description
 ------------ | -------------
 **Option 1** | User can select from pre-set images to test the mask detector.
+|<img width=200/>|<img width=500/>|
 **Option 2** | User can upload an image to run the mask detector.
+|<img width=200/>|<img width=500/>|
 **Option 3** | User can initiate the webcam feature and use the mask detector LIVE--in real time!
-
+|<img width=200/>|<img width=500/>|
 ---
 
-## Who would benefit from our face mask detector?
-
-
+# Why use a face mask detector?
+## - To automate face mask checks.
+## - Establish accurate predictions of mask use in state inspections
+## - Hospitals & healthcare could use its application to better enforce mask use.
+![Icon](https://github.com/nadiaaldrich/project_3/blob/190e95de6f04449c35960b96a1c7832212cc6835/README_Images/robot.jpeg
+)
 
  
